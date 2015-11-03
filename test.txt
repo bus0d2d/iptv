@@ -1,0 +1,5 @@
+#EXTINF:0,tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1875.png", TV5 Latvia http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV5.smil/playlist.m3u8
+
+#EXTINF:0,TV6 Latvia http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV6.smil/playlist.m3u8
+#EXTINF:0,TV3 Latvia http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV3.smil/playlist.m3u8
+#EXTINF:0,LNT http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:LNT.smil/playlist.m3u8
