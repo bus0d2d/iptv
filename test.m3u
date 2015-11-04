@@ -3,50 +3,51 @@
 #EXTINF:-1, [COLOR red] SPAIN [/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="TVE24h.png",TVE 24h
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/TVE24h.png",TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 
 
-#EXTINF:-1 tvg-logo="la2.jpg",La 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/la2.jpg",La 2
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 tvg-logo="tele5.png",Tele 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/tele5.png",Tele 5
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="lasexta.png",La Sexta HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/lasexta.png",La Sexta HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8 
 
-#EXTINF:-1 tvg-logo="antena3.png",Antena 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/antena3.png",Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8 
 
-#EXTINF:-1, tvg-logo="mega.png",MEGA
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/mega.png",MEGA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
 
-#EXTINF:-1,tvg-logo="canalsur.png",Canal Sur
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/canalsur.png",Canal Sur
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
 
 #EXTINF:-1, [COLOR green] LATVIA [/COLOR]
 http://0.0.0.0:1234
   
-#EXTINF:-1 tvg-logo="ltv1.png",LTV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/ltv1.png",LTV1
 http://dvb.gpsystems.lv:4242/bynumber/1
 
-#EXTINF:-1 tvg-logo="ltv7.png",LTV7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/ltv7.png",LTV7
 *http://dvb.gpsystems.lv:4242/bysid/5130
 
-#EXTINF:-1 tvg-logo="retv.jpg",Re:TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/retv.jpg",Re:TV
 http://dvb.gpsystems.lv:4242/bynumber/2?by_HasBahCa
 
-#EXTINF:-1 tvg-logo="tv24.jpg",Riga TV24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/tv24.jpg",Riga TV24
 http://dvb.gpsystems.lv:4242/bysid/5140?by_HasBahCa
 
-#EXTINF:0,tvg-logo="tv5latvia.jpg",TV5 Latvia
+#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/tv5latvia.jpg",TV5 Latvia
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV5.smil/playlist.m3u8
-#EXTINF:0,tvg-logo="tv6latvia.png",TV6 Latvia
+
+#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/tv6latvia.png",TV6 Latvia
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV6.smil/playlist.m3u8
-#EXTINF:0,tvg-logo="tv3latvia.png",TV3 Latvia
+
+#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/tv3latvia.png",TV3 Latvia
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:TV3.smil/playlist.m3u8
-#EXTINF:0,tvg-logo="lntlatvia.png",LNT
+
+#EXTINF:0,tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/lntlatvia.png",LNT
 http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:LNT.smil/playlist.m3u8
-
-
