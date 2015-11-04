@@ -3,7 +3,7 @@
 #EXTINF:-1, [COLOR red] SPAIN [/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="TVE24h.png",TVE 24h
+#EXTINF:-1 tvg-logo="tve24h.png",TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 
 
 #EXTINF:-1 tvg-logo="la2.jpg",La 2
