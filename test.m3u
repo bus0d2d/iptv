@@ -15,8 +15,14 @@ http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 #EXTINF:-1 tvg-logo="lasexta.png",La Sexta HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8 
 
+#EXTINF:0,#EXTINF:-1 , ES – LA SEXTA HD
+http://a3live-lh.akamaihd.net:80/i/lasexta_1@35272/index_3_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="antena3.png",Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8 
+
+#EXTINF:-1 , ES – ANTENA 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 
 #EXTINF:-1, tvg-logo="mega.png",MEGA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
