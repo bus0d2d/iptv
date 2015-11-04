@@ -3,7 +3,7 @@
 #EXTINF:-1, [COLOR red] SPAIN [/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/TVE24h.png",TVE 24h
+#EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1199.png",TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bus0d2d/iptv/master/la2.jpg",La 2
